@@ -12,5 +12,9 @@
     "21.0.0": "https://mega.nz/YOUR_FW_2100.zip",
     "20.5.2": "https://mega.nz/YOUR_FW_2052.zip"
   }
+   "Misc": {
+    "MissionControl": "https://github.com/ndeadly/MissionControl/releases/latest/download/MissionControl.zip",
+    "Tesla Menu": "https://github.com/WerWolv/Tesla-Menu/releases/latest/download/tesla.zip",
+    "JKSV": "https://github.com/J-D-K/JKSV/releases/latest/download/JKSV.nro"
 }
 
