@@ -1,0 +1,16 @@
+{
+  "Atmosphere": {
+    "1.10.1": "https://github.com/eradicatinglove/Atmosphere/releases/download/v1.10.1/TheOtherSide_ams_1.10.1.zip",
+    "1.10.0": "https://github.com/eradicatinglove/Atmosphere/releases/download/v1.10.0/TheOtherSide_ams_1.10.0.zip"
+  },
+  "Hekate": {
+    "6.2.1": "https://github.com/eradicatinglove/Hekate/releases/download/v6.2.1/TheOtherSide_hekate_6.2.1.zip",
+    "6.2.0": "https://github.com/eradicatinglove/Hekate/releases/download/v6.2.0/TheOtherSide_hekate_6.2.0.zip"
+  },
+  "Firmware": {
+    "21.1.0": "https://mega.nz/YOUR_FW_2110.zip",
+    "21.0.0": "https://mega.nz/YOUR_FW_2100.zip",
+    "20.5.2": "https://mega.nz/YOUR_FW_2052.zip"
+  }
+}
+
